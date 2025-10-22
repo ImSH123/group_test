@@ -4,4 +4,5 @@ public class Ksw {
 	public static void main(String[] args) {
 		System.out.println("점심은 부거킹");
 	}
+	
 }
