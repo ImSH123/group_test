@@ -2,7 +2,9 @@ package kr.co.ksist.ksw;
 
 public class Ksw {
 	public static void main(String[] args) {
-		System.out.println("점심은 부거킹");
+		System.out.println("ㅇㅂㅇ");
+		
 	}
 	
 }
+	
